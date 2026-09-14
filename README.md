@@ -1,4 +1,4 @@
-# E-Commerce Platform
+# # Full-Stack E-Commerce Platform
 
 Full-stack e-commerce application built with React/Vite/Tailwind, Node.js/Express, MongoDB/Mongoose, JWT and bcrypt.
 
